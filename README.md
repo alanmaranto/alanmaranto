@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning docker
 - ⚡ Fun fact: I don't feel my right hand because I had and accident when I was 17
 
+### SPOTIFY Playing
+[![Spotify](https://novatorem-alanarostegui.vercel.app//api/spotify)](https://open.spotify.com/user/f3add1d9cfd343dbb71dd4d8fad1dc73)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
