@@ -1,20 +1,6 @@
 ![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
-## Hi Alan Maranto here 👋
+# Hi Alan Maranto here 👋
 
-<!--
-**alanmaranto/alanmaranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## I'm a Developer, Musician, Chemical and Teacher
 
@@ -23,6 +9,7 @@ Here are some ideas to get you started:
 
 ### SPOTIFY Playing
 [![Spotify](https://novatorem-alanarostegui.vercel.app//api/spotify)](https://open.spotify.com/user/f3add1d9cfd343dbb71dd4d8fad1dc73)
+
 
 ### Connect with me:
 
@@ -75,7 +62,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia">
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia">
-
+<br />
 
 ![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
 
