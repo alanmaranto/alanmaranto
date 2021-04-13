@@ -1,0 +1,15 @@
+name: Latest blog post workFlow
+on:
+    schedule:
+        -cron: '0 * * * *'
+    workFlow_dispatch:
+
+jobs:
+    update-readme-with-blog:
+        name: Update this repo's README with the latest blog posts
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - user: gautamkrishnar/blog-post-workflow@master
+                with:
+                    feed_list: "https://medium.com/feed/@alanmaranto"
