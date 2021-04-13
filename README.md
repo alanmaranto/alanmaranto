@@ -61,8 +61,13 @@ Here are some ideas to get you started:
 - [Aprendiendo a implementar Redux](https://medium.com/nowports-tech/aprendiendo-a-implementar-redux-5eb8745e7552?source=rss-cea64cdc381b------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Alan Maranto's GitHub stats](https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia">
+<img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia">
+
+<!-- [![Alan Maranto's GitHub stats](https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [twitter]: https://twitter.com/alanmaranto
