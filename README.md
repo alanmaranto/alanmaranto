@@ -1,6 +1,4 @@
-[cool-background]
-
-
+![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
 ## Hi Alan Maranto here 👋
 
 <!--
@@ -72,14 +70,17 @@ Here are some ideas to get you started:
 
 ---
 
+![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
+
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia">
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia">
 
-<!-- [![Alan Maranto's GitHub stats](https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
 
 
 [twitter]: https://twitter.com/alanmaranto
 [instagram]: https://instagram.com/alanmaranto
 [linkedin]: https://www.linkedin.com/in/alan-arostegui-maranto-1a996517b/
-[cool-background]: https://user-images.githubusercontent.com/43775935/114610602-b9564200-9c65-11eb-8129-b7e05e8df09f.png
+
+
