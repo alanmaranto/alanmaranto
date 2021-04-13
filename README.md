@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 ![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
 
+
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia">
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia">
 
