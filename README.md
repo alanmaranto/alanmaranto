@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UI / UX for programmers](https://medium.com/nowports-tech/ui-ux-for-programmers-fe7c2670041?source=rss-cea64cdc381b------2)
+- [Introducción a React Hook Form](https://medium.com/nowports-tech/introducci%C3%B3n-a-react-hook-form-b3e725b707c4?source=rss-cea64cdc381b------2)
+- [Users come first](https://medium.com/nowports-tech/users-come-first-190d30608888?source=rss-cea64cdc381b------2)
+- [Home Office Productivo](https://medium.com/nowports-freight/home-office-productivo-9df0f129f8f8?source=rss-cea64cdc381b------2)
+- [Aprendiendo a implementar Redux](https://medium.com/nowports-tech/aprendiendo-a-implementar-redux-5eb8745e7552?source=rss-cea64cdc381b------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Alan Maranto's GitHub stats](https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
