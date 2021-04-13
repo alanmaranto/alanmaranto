@@ -1,3 +1,4 @@
+[cool-background]
 
 
 ## Hi Alan Maranto here 👋
@@ -81,3 +82,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/alanmaranto
 [instagram]: https://instagram.com/alanmaranto
 [linkedin]: https://www.linkedin.com/in/alan-arostegui-maranto-1a996517b/
+[cool-background]: https://user-images.githubusercontent.com/43775935/114610602-b9564200-9c65-11eb-8129-b7e05e8df09f.png
