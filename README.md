@@ -1,6 +1,6 @@
 
 
-### Hi Alan Maranto here 👋
+## Hi Alan Maranto here 👋
 
 <!--
 **alanmaranto/alanmaranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
