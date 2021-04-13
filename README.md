@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm a Developer, Musician, Chemical and Teacher
+
+- 🌱 I’m currently learning docker
+- ⚡ Fun fact: I don't feel my right hand because I had and accident when I was 17
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
