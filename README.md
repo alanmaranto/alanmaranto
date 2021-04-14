@@ -5,7 +5,7 @@
 ## I'm a Developer, Musician, Chemical and Teacher
 
 - 🌱 I’m currently learning docker
-- ⚡ Fun fact: I don't feel my right hand because I had and accident when I was 17
+- ⚡ Fun fact: I don't feel my right hand because I had an accident when I was 17
 
 ### SPOTIFY Playing
 [![Spotify](https://novatorem-alanarostegui.vercel.app//api/spotify)](https://open.spotify.com/user/f3add1d9cfd343dbb71dd4d8fad1dc73)
