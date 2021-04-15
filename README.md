@@ -1,5 +1,5 @@
 ![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
-# Hi Alan Maranto here 👋
+# Hi, Alan Maranto here 👋
 
 
 ## I'm a Developer, Musician, Chemical and Teacher
