@@ -61,6 +61,22 @@
 <img align="left" alt="" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia">
 ![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
 
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=RMDB)](https://github.com/alanmaranto/RMDB)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=twitter-clone)](https://github.com/alanmaranto/twitter-clone)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=spotify)](https://github.com/alanmaranto/spotify)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=covid19stats)](https://github.com/alanmaranto/covid19stats)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=youtube-api-clone)](https://github.com/alanmaranto/youtube-api-clone)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=chat-mern-socket-front)](https://github.com/alanmaranto/chat-mern-socket-front)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=chat-mern-socket-api)](https://github.com/alanmaranto/chat-mern-socket-api)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=carousel-with-animated-api)](https://github.com/alanmaranto/carousel-with-animated-api)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=pokeDexHooks)](https://github.com/alanmaranto/pokeDexHooks)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=car-parking)](https://github.com/alanmaranto/car-parking)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=airbnb-layout)](https://github.com/alanmaranto/airbnb-layout)
+[![Readme Card](https://github-readme-stats-alanarostegui.vercel.app/api/pin/?username=alanmaranto&repo=E-Commerce-Card)](https://github.com/alanmaranto/E-Commerce-Card)
+
+
+![resize-1618342937652360305coolbackground](https://user-images.githubusercontent.com/43775935/114611275-78aaf880-9c66-11eb-9495-076ac769caa5.png)
+
 [twitter]: https://twitter.com/alanmaranto
 [instagram]: https://instagram.com/alanmaranto
 [linkedin]: https://www.linkedin.com/in/alan-arostegui-maranto-1a996517b/
