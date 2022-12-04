@@ -2,7 +2,7 @@
 # Hi, Alan Maranto here 👋
 
 
-## I'm a Developer, Musician, Chemical and Teacher
+## I'm a Developer, Musician, Chemical Engineer and Teacher
 
 - 🌱 I’m currently learning docker
 - ⚡ Fun fact: I don't feel my right hand because I had an accident when I was 17
