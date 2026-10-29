@@ -35,7 +35,7 @@ Before software I studied Chemical Engineering (plus a master's in sustainable p
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/alan-arostegui-maranto-1a996517b/) · [X](https://x.com/alanmaranto) · [Instagram](https://instagram.com/alanmaranto) · [Band der Waals Web Site](https://www.bandderwaals.com/<página>?utm_source=github&utm_medium=social&utm_campaign=bio)
+[LinkedIn](https://www.linkedin.com/in/alanmaranto) · [X](https://x.com/alanmaranto) · [Instagram](https://instagram.com/alanmaranto) · [Band der Waals Web Site](https://www.bandderwaals.com/<página>?utm_source=github&utm_medium=social&utm_campaign=bio)
 
 <img alt="GitHub stats" src="https://github-readme-stats-alanarostegui.vercel.app/api?username=alanmaranto&show_icons=true&theme=algolia" height="150"/>
 <img alt="Top languages" src="https://github-readme-stats-alanarostegui.vercel.app/api/top-langs/?username=alanmaranto&langs_count=8&layout=compact&theme=algolia" height="150"/>
