@@ -4,7 +4,7 @@
 
 I build products end to end: UI, APIs, infra and the glue in between. These days I'm working on an **AI agent platform at BetterCloud**, where I lead the frontend side and design how people build, run and govern their own agents.
 
-When I'm not shipping, I'm behind the lyrics and kit with **[Band der Waals](#)**, an rock fusion pop band from CDMX.
+When I'm not shipping, I'm behind the lyrics and kit with **[Band der Waals](https://www.bandderwaals.com/<página>?utm_source=github&utm_medium=social&utm_campaign=bio)**, an rock fusion pop band from CDMX.
 
 Before software I studied Chemical Engineering (plus a master's in sustainable processes), so I tend to think in systems, flows and feedback loops.
 
